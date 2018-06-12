@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tan/CPPLondon/declarations-definitions-2018-06-12-keyboardbreaker/main.cpp
+iostream
+-
+string
+-
+utility.h
+/Users/tan/CPPLondon/declarations-definitions-2018-06-12-keyboardbreaker/utility.h
+
+/Users/tan/CPPLondon/declarations-definitions-2018-06-12-keyboardbreaker/utility.cpp
+string
+-
+iostream
+-
+utility.h
+/Users/tan/CPPLondon/declarations-definitions-2018-06-12-keyboardbreaker/utility.h
+
+/Users/tan/CPPLondon/declarations-definitions-2018-06-12-keyboardbreaker/utility.h
+
